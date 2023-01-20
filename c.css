@@ -1,0 +1,35 @@
+@media screen and (min-width:991px) {
+    .rs {
+        max-width: 200px;
+        height: 295px;
+        background: #f1f1f1;
+        float: left;
+        margin: 0 10px 15px 5px;
+        text-align: center;
+    }
+	.vprh {
+        height: 550px;
+		width: 100%;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .rs {
+        max-width: 160px;
+        height: 240px;
+        background: #f1f1f1;
+        float: left;
+        margin: 0 5px 10px 5px;
+        text-align: center;
+    }
+	.vprh {
+        height: 450px;
+		width: 100%;
+    }
+}
+
+.psgame {
+    margin-left: 5px;
+    margin-top: -6px;
+    max-height: 25px;
+}
